@@ -11,8 +11,7 @@ print(total)
             
             #OR
 
-num= input('enter no.: ')
-num= int(num)
+num= int(input('enter no.: '))
 total=0
 for i in range(num+1):
     total+=i
